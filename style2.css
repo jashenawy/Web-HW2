@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300&family=Lobster&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300&family=Lobster&display=swap');
+
+
+#navbar2{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(168, 131, 76);
+    color: black;
+position: fixed;
+top: 0;
+
+}
+#linkref{
+    color: rgb(238, 235, 217);
+    text-decoration: none;
+    padding: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    background-color: rgb(224, 208, 221);
+   
+}
+
+
+
+.container{
+    background-color: rgb(218, 210, 173);
+    height: 220px;
+    width: 189px;
+    border-radius: 20px;
+  margin-left: 150px;
+  display:inline-block;
+  margin-bottom: 20px;
+  flex-wrap: nowrap;
+  box-shadow:4px 3px rgb(94, 65, 11);
+  cursor: pointer;
+  margin-left: 169px;
+  margin-top: 150px;
+ 
+}
+
+
+
+.test{
+    margin-top: 15px;
+    width: 110px;
+    height: 100px;
+
+}
+
+.test2{
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Lobster', cursive;
+}
+
+
+
+
+
